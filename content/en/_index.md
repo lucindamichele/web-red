@@ -6,7 +6,7 @@ blocks:
     heading: "The World's First Full-Stack Programming Language"
     content: |-
         Red's ambitious goal is to build the world's first full-stack language:
-        one you can use from system programming tasks, up to high-level
+        one you can use from system programming tasks up to high-level
         scripting, using domain-specific, homoiconic language.
     button_text: "Download"
     button_url: "/download/"
